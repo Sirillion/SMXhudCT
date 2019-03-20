@@ -1,4 +1,4 @@
-# SMXhudIcons - A17
+# SMXhudCT - A17
 
 <p align="center">
   <img src="https://i.imgur.com/HuX63zR.jpg" width="700" title="SMXhudIcons - A17.2">
